@@ -1,2 +1,2 @@
 # play-with-platypus
-test r package object detection and segmentation for bio-image. 
+Test r package for object detection and object segmentation with some bio-images.
