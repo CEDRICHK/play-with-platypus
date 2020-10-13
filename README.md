@@ -8,4 +8,4 @@ Test r package **platypus** for object detection and object segmentation with so
     - abind
  
 # Run examples
-I follow the examples taken on the github.^[https://github.com/maju116/platypus] 
+I follow the examples taken on the github (https://github.com/maju116/platypus). 
